@@ -1,0 +1,8 @@
+void main() {
+  // for (var i = 0; i < 4; i++) {
+  //   print('hello $i');
+
+  var name = "mario";
+
+  print(name);
+}
